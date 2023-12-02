@@ -1,0 +1,15 @@
+/home/kali/Desktop/fileJson/bin/Debug/net6.0/fileJson
+/home/kali/Desktop/fileJson/bin/Debug/net6.0/fileJson.deps.json
+/home/kali/Desktop/fileJson/bin/Debug/net6.0/fileJson.runtimeconfig.json
+/home/kali/Desktop/fileJson/bin/Debug/net6.0/fileJson.dll
+/home/kali/Desktop/fileJson/bin/Debug/net6.0/fileJson.pdb
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.csproj.AssemblyReference.cache
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.AssemblyInfoInputs.cache
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.AssemblyInfo.cs
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.dll
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/refint/fileJson.dll
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.pdb
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/fileJson.genruntimeconfig.cache
+/home/kali/Desktop/fileJson/obj/Debug/net6.0/ref/fileJson.dll
